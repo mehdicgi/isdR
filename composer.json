@@ -1,0 +1,26 @@
+{
+  "name": "Kahloun Elmehdi",
+  "description": "",
+  "homepage": "http://almsaeedstudio.com/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "kahloun mehdi",
+      "email": "el.kahloun@cgi.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": ""
+  }
+}
